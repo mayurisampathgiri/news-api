@@ -8,8 +8,7 @@ This is a simple website that fetches news articles using the News API based on 
 - [Screenshots](#screenshots)
 - [Usage](#usage)
 - [Setup](#setup)
-- [License](#license)
-
+  
 ## Features
 
 - Users can enter a query to search for news articles.
@@ -35,7 +34,4 @@ This is a simple website that fetches news articles using the News API based on 
 2. Sign up for a free account on the [News API website](https://newsapi.org/) to get an API key.
 3. Replace the placeholder API key in the code with your actual News API key.
 4. Open the `index.html` file in a web browser to view the website.
-   
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
